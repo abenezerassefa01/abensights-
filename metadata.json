@@ -1,0 +1,8 @@
+{
+  "name": "Remix abensights.com",
+  "description": "A high-end, responsive professional portfolio with light/dark modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
